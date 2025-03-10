@@ -1,7 +1,7 @@
 <h1 align="center">Xcera</h1>
 <p align="center">
 </p>
-<a href="https://weekendofcode.computercodingclub.in/"> <img src="https://i.postimg.cc/njCM24kx/woc.jpg" height=30px> </a>
+
 
 ## Introduction:
   Xcera is a startup connect platform designed to brigde the
